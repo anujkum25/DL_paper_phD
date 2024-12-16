@@ -1,0 +1,19 @@
+GAN dataset:
+https://github.com/costapt/vess2ret/tree/master
+https://www.adcis.net/en/third-party/messidor/
+
+
+
+python libraries for GAN
+q3 q4 ppaer on our topic
+measure quality of generated images - overall, R1,R2 level, 
+focus on result first
+use block daigrams of generator and discrimintaor in paper
+comparison with others work
+how out work is imp - faster, smaller
+
+
+
+
+
+
